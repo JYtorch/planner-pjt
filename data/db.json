@@ -1,0 +1,79 @@
+{
+  "boardList": [
+    {
+      "id": 1,
+      "title": "예시 1",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "writer": "관리자",
+      "date": "22.01.20"
+    },
+    {
+      "id": 2,
+      "title": "예시 2",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "writer": "관리자",
+      "date": "22.01.20"
+    },
+    {
+      "id": 3,
+      "title": "예시 3",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "writer": "관리자",
+      "date": "22.01.20"
+    },
+    {
+      "id": 4,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "writer": "관리자",
+      "date": "22.01.20"
+    },
+    {
+      "title": "ㅇㅇ",
+      "content": "ㅇㅇ",
+      "date": "2022-01-21 07:16:27",
+      "writer": "관리자관리자관리자관리자관리자관리자관리자관리자관리자",
+      "count": 2,
+      "like": 20,
+      "attachment": "",
+      "id": 5
+    }
+  ],
+  "latestNoticeList": [
+    {
+      "id": 1,
+      "title": "공지 1",
+      "writer": "관리자",
+      "date": "22.01.15"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-01-11 07:16:27",
+      "writer": "관리자",
+      "like": 14,
+      "postId": 5,
+      "responseTo": -1
+    },
+    {
+      "id": 2,
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-01-30 07:16:27",
+      "writer": "관리자",
+      "like": 2,
+      "postId": 5,
+      "responseTo": -1
+    },
+    {
+      "content": "111",
+      "writer": "테스트 유저",
+      "date": "2022-01-30 13:03:01",
+      "like": 0,
+      "postId": 5,
+      "id": 3,
+      "responseTo": -1
+    }
+  ]
+}
